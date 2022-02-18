@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/1226172/fuwudi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##我是无敌的，万物终将臣服在我的脚下 
+u can use the [editor on GitHub](https://github.com/1226172/fuwudi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
